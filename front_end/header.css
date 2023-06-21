@@ -1,0 +1,38 @@
+a{
+    color:black;
+}
+.nav-link{
+    color:black;
+    font-size: 12px;
+}
+.nav-link :hover{
+/* text-decoration: underline; */
+border-bottom: 1px solid black;
+padding-bottom: 7px;
+}
+.left{
+    margin-left: 0px;
+}
+.logo{
+    margin-left: 250px;
+}
+.right li{
+    display: inline-block;
+    margin-left: 50px;
+    margin-right: 0px;
+    text-decoration: none;
+    margin-top: 10px;
+   
+}
+.ast-search-icon{
+    margin-left: 320px;
+width: 15px;
+height: 15px;
+}
+.ast-icon-shopping-basket{
+width: 5px;
+height: 5px;
+}
+.ast-woo-header-cart-total{
+    text-decoration: none; 
+}
